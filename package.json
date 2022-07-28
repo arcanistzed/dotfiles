@@ -15,7 +15,7 @@
 	"homepage": "https://github.com/arcanistzed/dotfiles#readme",
 	"dependencies": {
 		"@typhonjs-fvtt/eslint-config-foundry.js": "^0.8.0",
-		"eslint-config-arcanist": "^1.4.0",
+		"eslint-config-arcanist": "^1.5.0",
 		"eslint-config-prettier": "^8.5.0",
 		"prettier": "^2.7.1"
 	},
